@@ -1,0 +1,56 @@
+-Sách:
++Tên sách
++Tác giả --
++Năm xuất bản
++Giá bán
++Số lượng
++Thể loại --
++Ngôn ngữ
++mô tả
+
+-Tác giả:
++mã tác gỉa
++Tên tác giả
++giới tính
++Ngày sinh
++Tiểu sử
+
+-thể loại:
++Mã thể loại
++Tên thể loại
+
+-Khách hàng
++Mã khách hàng
++Tên đăng nhập
++Mật khẩu
++Họ và tên
++Giới tính
++Địa chỉ
++Địa chỉ nhận hàng
++Ngày sinh
++Số điện thoại
++Địa chỉ email
+
+-Đơn hàng
++mã đơn hàng
++Khách hàng---
++địa chỉ mua hàng
++địa chỉ người nhận	
++Trạng thái:mới tạo,đang xử lí,đang giao hàng,giao hàng thành công,trả hàng
++hình thức thanh toán
++trạng thái thanh toán
++số tiền đã thanh toán
++số tiền còn thiếu
++ngày đặt hàng
++ngày giao hàng
+
+-Chi tiết đơn hàng:
++Đơn hàng --
++Mã sách
++số lượng
++giá bìa
++voucher
++giá tiền
++thuế VAT
++tổng thành tiền
+
